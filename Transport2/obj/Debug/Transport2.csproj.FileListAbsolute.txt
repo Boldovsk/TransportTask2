@@ -1,0 +1,8 @@
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\bin\Debug\Transport2.exe.config
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\bin\Debug\Transport2.exe
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\bin\Debug\Transport2.pdb
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\obj\Debug\Transport2.csproj.AssemblyReference.cache
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\obj\Debug\Transport2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\obj\Debug\Transport2.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\obj\Debug\Transport2.exe
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing2\Transport2\obj\Debug\Transport2.pdb
